@@ -26,6 +26,8 @@ undersampling for improving results.</li>
   <li>Matplotlib.pyplot and Seaborn- for visualizations</li>
 </ul>
 
+![Uploading Screen Shot 2023-12-08 at 9.45.13 PM.png…]()
+
 <p>Step 3: Dealing with imbalances in our data </p>
 <p>This is crucial because we are dealing with a dataset that has the potential to for undersampling or oversmapling. This is something that needs to be considered</p>
 
