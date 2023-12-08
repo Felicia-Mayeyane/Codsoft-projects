@@ -1,4 +1,4 @@
-# credit fraud detection
+# Credit fraud detection
 
 <p> I have been tasked to: </p>
 <ul>
