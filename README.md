@@ -44,4 +44,4 @@ undersampling for improving results.</li>
 <p> Step 7: Model Evaluation</p>
 
 <h2>Final thoughts:</h2>
-<p> This particular task was challenging for me. I did not expec for it to take three days to complete, however I was met with challenges for example I do not have alot of experience with some algorithms and making a choice was difficult at first</p>
+<p> This particular task was challenging for me. I did not expec for it to take three days to complete, however I was met with challenges for example I do not have alot of experience with some algorithms and making a choice was difficult at first. I encountered errors in the process which I had to troubleshoot, at one point I just had to stay away from the computer lol</p>
