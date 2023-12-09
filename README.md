@@ -41,7 +41,8 @@ undersampling for improving results.</li>
   <li>Scikit-Learn: imported SMOTE, random forest, imbalance</li>
 </ul>
 
-<img width="1440" alt="Screen Shot 2023-12-08 at 9 44 48 PM" src="https://github.com/Felicia-Mayeyane/Codsoft-projects/assets/119903285/4656fec0-bf33-451b-bcb6-0ac555fe9540">
+<img width="1440" alt="Screen Shot 2023-12-08 at 9 44 48 PM" src="https://github.com/Felicia-Mayeyane/Codsoft-projects/assets/119903285/52fcde53-b11e-4fde-b98b-4337ec91dc62">
+
 
 <p>Step 4: Splitting the data into training / testing</p>
 <p> Dividing the data into training and testing sets</p>
