@@ -1,0 +1,31 @@
+<h2>Sales Predictions</h2>
+
+<p>This project scope of the project:</p>
+
+<ul>
+<li>Sales prediction involves forecasting the amount of a product that
+customers will purchase, taking into account various factors such as
+advertising expenditure, target audience segmentation, and
+advertising platform selection.</li>
+<li>In businesses that offer products or services, the role of a Data
+Scientist is crucial for predicting future sales. They utilize machine
+learning techniques in Python to analyze and interpret data, allowing
+them to make informed decisions regarding advertising costs. By
+leveraging these predictions, businesses can optimize their
+advertising strategies and maximize sales potential using machine learning in Python.</li>
+</ul>
+
+<p>The problem I will be focusing on solving is : How can we predict sales by focusing on honing in on these factors: target audience segmentation, advertising expenditure and advertising platform selection</p>
+<p>These are the stepes I will be following to solve this particular problem:</p>
+
+<ul>
+<li>Define the problem</li>
+<li>Gather the data</li>
+<li>Explore the date (using python libraries</li>
+<li>Visualize the data</li>
+<li>Model the data</li>
+<li>test the model</li>
+</ul>
+
+<h3>Final thoughts</h3>
+<p>I thoroughly enjoyed this project it was simply and straight to the point, compared to the previous project this was my favorite, I will attribute that to domain knowledge</p>
