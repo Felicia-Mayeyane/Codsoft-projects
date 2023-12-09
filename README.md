@@ -87,6 +87,9 @@ advertising strategies and maximize sales potential using machine learning in Py
   <img width="444" alt="Screen Shot 2023-12-09 at 12 35 58 PM" src="https://github.com/Felicia-Mayeyane/Codsoft-projects/assets/119903285/b1b790b2-08af-42f5-994c-28f77ac6e0ed">
   
 <li>Visualize the data</li>
+
+<img width="750" alt="Screen Shot 2023-12-09 at 12 37 05 PM" src="https://github.com/Felicia-Mayeyane/Codsoft-projects/assets/119903285/9dbb2b2c-7e5d-4ec8-997c-af875048f534">
+
 <li>Model the data</li>
 <li>test the model</li>
 </ul>
