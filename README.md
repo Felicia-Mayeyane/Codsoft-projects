@@ -19,6 +19,9 @@ undersampling for improving results.</li>
 
 <p>Step 2: Data preprocessing </p>
 <p>This step includes cleaning (handling null values etc)and normalizing the data </p>
+
+<img width="1440" alt="Screen Shot 2023-12-08 at 9 43 58 PM" src="https://github.com/Felicia-Mayeyane/Codsoft-projects/assets/119903285/b19ea4f9-0638-4957-84cd-98a15d786be0">
+
 <p>Python Libraries:</p>
 <ul>
   <li>Pandas- data analysis and manipulation</li>
