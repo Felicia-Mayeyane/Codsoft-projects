@@ -98,3 +98,16 @@ advertising strategies and maximize sales potential using machine learning in Py
 
 <h3>Final thoughts</h3>
 <p>I thoroughly enjoyed this project it was simply and straight to the point, compared to the previous project this was my favorite, I will attribute that to domain knowledge</p>
+
+<h2>Project 3: Iris Flower Classification :hibiscus:</h2>
+
+<p>Scope of the project</p>
+<ul>
+  <li>Objective is to train a machine learning model that can learn from
+these measurements and accurately classify the Iris flowers into
+their respective species.</li>
+  <li>Use the Iris dataset to develop a model that can classify iris
+flowers into different species based on their sepal and petal
+measurements.</li>
+</ul>
+<p>Snippet of code and results</p>
