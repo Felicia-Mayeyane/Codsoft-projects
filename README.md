@@ -26,6 +26,10 @@ undersampling for improving results.</li>
   <li>Matplotlib.pyplot and Seaborn- for visualizations</li>
 </ul>
 
+
+
+<img width="1440" alt="Screen Shot 2023-12-08 at 9 43 58 PM" src="https://github.com/Felicia-Mayeyane/Codsoft-projects/assets/119903285/f88341d3-3aef-418a-84c5-cff290528b0a">
+
 <img width="1440" alt="Screen Shot 2023-12-08 at 9 44 07 PM" src="https://github.com/Felicia-Mayeyane/Codsoft-projects/assets/119903285/621bc8ef-68de-4552-8ed4-44b050c92229">
 
 <p>Step 3: Dealing with imbalances in our data </p>
